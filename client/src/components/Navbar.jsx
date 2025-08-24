@@ -1,7 +1,6 @@
 import React, { use } from 'react'
 import { assets } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
-import { Button } from 'bootstrap'
 import { ArrowRight } from 'lucide-react'
 import { useClerk,UserButton,useUser } from '@clerk/clerk-react'
 
